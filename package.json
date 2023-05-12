@@ -1,0 +1,24 @@
+{
+  "name": "mi-primer-proyecto-de-node",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de javascript con Node en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloSammartino/mi-primer-proyecto-con-node.git"
+  },
+  "keywords": [
+    "firstProject"
+  ],
+  "author": "pabloSammartino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloSammartino/mi-primer-proyecto-con-node/issues"
+  },
+  "homepage": "https://github.com/PabloSammartino/mi-primer-proyecto-con-node#readme"
+}
